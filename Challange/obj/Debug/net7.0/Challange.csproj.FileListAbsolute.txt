@@ -1,0 +1,15 @@
+D:\OOP\PD\Challange\bin\Debug\net7.0\Challange.exe
+D:\OOP\PD\Challange\bin\Debug\net7.0\Challange.deps.json
+D:\OOP\PD\Challange\bin\Debug\net7.0\Challange.runtimeconfig.json
+D:\OOP\PD\Challange\bin\Debug\net7.0\Challange.dll
+D:\OOP\PD\Challange\bin\Debug\net7.0\Challange.pdb
+D:\OOP\PD\Challange\obj\Debug\net7.0\Challange.csproj.AssemblyReference.cache
+D:\OOP\PD\Challange\obj\Debug\net7.0\Challange.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\PD\Challange\obj\Debug\net7.0\Challange.AssemblyInfoInputs.cache
+D:\OOP\PD\Challange\obj\Debug\net7.0\Challange.AssemblyInfo.cs
+D:\OOP\PD\Challange\obj\Debug\net7.0\Challange.csproj.CoreCompileInputs.cache
+D:\OOP\PD\Challange\obj\Debug\net7.0\Challange.dll
+D:\OOP\PD\Challange\obj\Debug\net7.0\refint\Challange.dll
+D:\OOP\PD\Challange\obj\Debug\net7.0\Challange.pdb
+D:\OOP\PD\Challange\obj\Debug\net7.0\Challange.genruntimeconfig.cache
+D:\OOP\PD\Challange\obj\Debug\net7.0\ref\Challange.dll

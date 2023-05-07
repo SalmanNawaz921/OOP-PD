@@ -1,0 +1,35 @@
+static void UpdateStock(string path1, List<Product> products)
+        {
+            managerHeader();
+            managerSubMenu("UPDATE STOCK");
+
+            Console.Write("           	                       1. ENTER ITEM NAME (YOU WANT TO UPDATE):  ");
+            string name = Console.ReadLine();
+
+            bool flag = false;
+            for (int i = 0; i < countFood; i++)
+            {
+                if (name == products[i].foodName)
+                {
+                    Product updateProduct = new Product();
+                    updateProduct.foodName = products[i].foodName;
+                    Console.Write("           	                       2. ENTER ITEM'S NEW PRICE:  ");
+                    updateProduct.foodPrice = validateInteger();
+                    Console.Write("           	                       3.ENTER ITEM'S NEW QUANTITY:  ");
+                    updateProduct.foodQuantity = validateInteger();
+
+                    Console.WriteLine("\n                      \t\t      ITEM NAME         UPDATED PRICE         UPDATED QUANTITY");
+                    Console.WriteLine($"{"",42}{updateProduct.foodName,12}      {updateProduct.foodPrice,21}{updateProduct.foodQuantity,20}");
+                    products.RemoveAt(i);
+                    products.Insert(i, updateProduct);
+                    flag = true;
+                    break;
+                }
+            }
+
+            if (!flag)
+            {
+                itemError();
+            }
+            storeStock(path1, products);
+        }

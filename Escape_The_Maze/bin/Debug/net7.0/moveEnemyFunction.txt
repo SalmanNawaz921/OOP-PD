@@ -1,0 +1,48 @@
+ static bool moveGrandpa(ref string direction, char[,] maze, ref int X, ref int Y, User user)
+        {
+            if (user.userX == X && user.userY == Y || user.userX - 1 == X - 1 && user.userY - 1 == Y - 1 || user.userX + 1 == X + 1 && user.userY + 1 == Y + 1)
+            {
+                return false;
+            }
+            if (direction == "left" && (maze[X, Y - 1] == ' '))
+            {
+                removeGrandpa(maze, ref X, ref Y);
+                Y = Y - 1;
+                printGrandpa(maze, ref X, ref Y);
+                if (maze[X, Y - 1] == '\u2588' || maze[X, Y - 1] == '#')
+                {
+                    direction = "right";
+                }
+            }
+            else if (direction == "right" && (maze[X, Y + 3] == ' '))
+            {
+                removeGrandpa(maze, ref X, ref Y);
+                Y = Y + 1;
+                printGrandpa(maze, ref X, ref Y);
+                if (maze[X, Y + 3] == '\u2588' || maze[X, Y + 3] == '#')
+                {
+                    direction = "down";
+                }
+            }
+            else if (direction == "up" && (maze[X - 1, Y] == ' '))
+            {
+                removeGrandpa(maze, ref X, ref Y);
+                X = X - 1;
+                printGrandpa(maze, ref X, ref Y);
+                if (maze[X - 1, Y] == '\u2588' || maze[X - 1, Y] == '#')
+                {
+                    direction = "left";
+                }
+            }
+            else if (direction == "down" && (maze[X + 2, Y] == ' '))
+            {
+                removeGrandpa(maze, ref X, ref Y);
+                X = X + 1;
+                printGrandpa(maze, ref X, ref Y);
+                if (maze[X + 2, Y] == '\u2588' || maze[X + 2, Y] == '#')
+                {
+                    direction = "up";
+                }
+            }
+            return true;
+        }
