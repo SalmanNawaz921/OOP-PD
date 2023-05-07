@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OOP\\PD\\Challange\\Challange.csproj": {}
+    "D:\\OOP\\OOP PD\\OOP-PD\\Challange\\Challange.csproj": {}
   },
   "projects": {
-    "D:\\OOP\\PD\\Challange\\Challange.csproj": {
+    "D:\\OOP\\OOP PD\\OOP-PD\\Challange\\Challange.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OOP\\PD\\Challange\\Challange.csproj",
+        "projectUniqueName": "D:\\OOP\\OOP PD\\OOP-PD\\Challange\\Challange.csproj",
         "projectName": "Challange",
-        "projectPath": "D:\\OOP\\PD\\Challange\\Challange.csproj",
+        "projectPath": "D:\\OOP\\OOP PD\\OOP-PD\\Challange\\Challange.csproj",
         "packagesPath": "C:\\Users\\Administrator.NOMAN.000\\.nuget\\packages\\",
-        "outputPath": "D:\\OOP\\PD\\Challange\\obj\\",
+        "outputPath": "D:\\OOP\\OOP PD\\OOP-PD\\Challange\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator.NOMAN.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
