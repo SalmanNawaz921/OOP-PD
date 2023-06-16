@@ -1,0 +1,30 @@
+D:\OOP\RMS\RMS\obj\Debug\net7.0\RMS.csproj.AssemblyReference.cache
+D:\OOP\RMS\RMS\obj\Debug\net7.0\RMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\RMS\RMS\obj\Debug\net7.0\RMS.AssemblyInfoInputs.cache
+D:\OOP\RMS\RMS\obj\Debug\net7.0\RMS.AssemblyInfo.cs
+D:\OOP\RMS\RMS\obj\Debug\net7.0\RMS.csproj.CoreCompileInputs.cache
+D:\OOP\RMS\RMS\bin\Debug\net7.0\RMS.exe
+D:\OOP\RMS\RMS\bin\Debug\net7.0\RMS.deps.json
+D:\OOP\RMS\RMS\bin\Debug\net7.0\RMS.runtimeconfig.json
+D:\OOP\RMS\RMS\bin\Debug\net7.0\RMS.dll
+D:\OOP\RMS\RMS\bin\Debug\net7.0\RMS.pdb
+D:\OOP\RMS\RMS\obj\Debug\net7.0\RMS.dll
+D:\OOP\RMS\RMS\obj\Debug\net7.0\refint\RMS.dll
+D:\OOP\RMS\RMS\obj\Debug\net7.0\RMS.pdb
+D:\OOP\RMS\RMS\obj\Debug\net7.0\RMS.genruntimeconfig.cache
+D:\OOP\RMS\RMS\obj\Debug\net7.0\ref\RMS.dll
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\obj\Debug\net7.0\RMS.csproj.AssemblyReference.cache
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\obj\Debug\net7.0\RMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\obj\Debug\net7.0\RMS.AssemblyInfoInputs.cache
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\obj\Debug\net7.0\RMS.AssemblyInfo.cs
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\obj\Debug\net7.0\RMS.csproj.CoreCompileInputs.cache
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\obj\Debug\net7.0\RMS.dll
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\obj\Debug\net7.0\refint\RMS.dll
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\obj\Debug\net7.0\RMS.pdb
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\bin\Debug\net7.0\RMS.exe
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\bin\Debug\net7.0\RMS.deps.json
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\bin\Debug\net7.0\RMS.runtimeconfig.json
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\bin\Debug\net7.0\RMS.dll
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\bin\Debug\net7.0\RMS.pdb
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\obj\Debug\net7.0\RMS.genruntimeconfig.cache
+D:\OOP\OOP PD\OOP-PD\Lab 4\Bussiness App With Multi Classes\obj\Debug\net7.0\ref\RMS.dll
